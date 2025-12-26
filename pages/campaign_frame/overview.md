@@ -6,7 +6,8 @@ nav_order: 2
 ---
 
 *One-Page overview of the setting*
-n the beginning Palaghast, the god-planet, was whole and the People were happy. Until the Demiurge, an arcane crafter from beyond brought Magic. The People flirted with this new power that could rival Palaghast's. A war of the Divine and Arcane waged across the face of the world. The First Saints, anointed by Palaghast themself, took the fight directly to the Demiurge for a final killing blow. In their pitched battle, the Demiurge unleashed a decisive spell—an arcane spear thrust straight through the breast of Palaghast. 
+
+In the beginning Palaghast, the god-planet, was whole and the People were happy. Until the Demiurge, an arcane crafter from beyond brought Magic. The People flirted with this new power that could rival Palaghast's. A war of the Divine and Arcane waged across the face of the world. The First Saints, anointed by Palaghast themself, took the fight directly to the Demiurge for a final killing blow. In their pitched battle, the Demiurge unleashed a decisive spell—an arcane spear thrust straight through the breast of Palaghast. 
 
 The god, and the world were sundered. 
 
@@ -42,7 +43,6 @@ While Pala-Vivo may seem like the perfect Reliquary, not everything is as it see
 
 Vivo has an intense hatred for the Abyss and hunts any and all practitioners, labeling them daemons. Those caught consorting with the Abyss are harshly punished. It is said his righteous hatred comes from the fact that Splendor had been corrupted by the Demiruge long before the Rending. 
 
-**Astral Bridge:** Pala-Vivo is connected to Pala-Lukton (now broken) and Pala-Arbar.
 ### Arbar - Sage
 No Reliquary is as green as Pala-Arbar. Nature in all its splendor flourishes within this realm, cultivated by the Halflings, Galapa, and Fungril aided by Arbar. This Reliquary holds the most landmass of them all. With its abundance of nature comes beauty and danger. Gargantuan beasts roam the expansive woods. Unchecked groves hide plant life willing to feast on meat as well as sunlight.
 
@@ -50,13 +50,11 @@ Villages and settlements are few here. The Halflings move about the land in sma
 
 Nearing the center, closer to the lush capital city, you’ll find more cultivated lands with small towns and cities. Here the bulk of the population can be found.
 
-**Astral Bridge:** Pala-Vivo in the West and Pala-Iluz in the East and Pala-Lum in the North.
 ### Lum - Valor
 Ruled by the soft spoken Lum. Pala-Lum consists of two major landmasses. On the Eastern side rests the capital city of Luminaire, nestled in the center of three smaller land masses connected by short isthmus'. To gain an audience with Lum followers must ascend the Steps of the Sun to reach the Shining Citadel.
 
 **Races:** Every race is welcome and is equally represented in the Land of the Sun. Seen as a Domain for trading and meetings, Pala-Lum is where the noble races send their dignitaries for monthly meetings, where they discuss trade offers, settle disputes, and share the will of their Solar.
 
-**Astral Bridge:** Pala-Lum is connected to two other Domains. Pala-Arbar and Pala-Scio.
 ### Scio - Codex
 Corrupted
 Pala-Scio is considered the Font of Knowledge. Every city boasts a public library, often specializing in a particular subject. This has turned into a soft rivalry where each city works to create the most grand and lavish library in the Reliquary. Some have even gone so far as to fill entire wings of the buildings with empty books, just to have an excuse to build new editions.
@@ -65,7 +63,6 @@ While each library is extensive, none compare to the capital city Scio's Library
 
 Unfortunately, this has led to rumors that there are secret areas of the Grand Library that hold forbidden Arcane and Abyssal Knowledge. Whispers spread among the Acolytes of Knowledge that dark tomes have survived the Rending and now are locked within secret rooms. Tales of a cabal of wizards swirl, claiming they have started their own collection the threatens to open a rift to the Abyssal Sea. 
 
-**Astral Bridge:** (Add)
 ### Malseren - Bone
 Storms rage across the expansive oceans of the Reliquary, thrashing craggy islands. Rarely does the land see the light of day. If it is not overcast, it is raining. Even on “clear” days a crack of lighting will strike the sky.
 
@@ -79,7 +76,6 @@ Abyssal Touched seek this Reliquary as a place of refuge due to many New Gods ce
 - Faelen
 - Gale
 
-**ASTRAL BRIDGES:** PALA-SCIO, PALA-LUKTON
 ### Lukton - Blade
 The Reliquary of War. Pala-Lukton is harsh and unforgiving place. A deadly swamp lay to the south, full of vipers, giant spiders, and — if rumor is to be believed — a dragon made of living poison. Past the mountain range is the massive Gor'Kurak Desert. So named after the Daemon Lord who fought Lukton and armies during the Daemonic Purge. To the East swirls the Bay of Swords. Its shallow depths reveal the tips of craggy tips of broken rock.
 
@@ -87,7 +83,6 @@ Pala-Lukton has hardened its people. It is said that every child is born with a 
 
 Despite being the known as the Exemplar of War, Lukton is not a warmonger or despot. Those close to him have said he sees his position as a cruel necessity. For without his knowledge and steel, the Reliquaries would have fallen to the Abyssal Horde long ago. As far as he and the Knights of the Silvered Sword are concerned, they are all that stands between peace and oblivion.
 
-**Astral Bridge:** Pala-Malseren and Pala-Vivo.
 ### Morto - Midnight
 Pala-Morto, the Realm of Death, the Underworld.
 
