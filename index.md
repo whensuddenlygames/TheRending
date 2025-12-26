@@ -6,25 +6,23 @@ nav_order: 0
 <p align="center" width="100%">
   <img src="imgs/palaghast-logo-small.png">
 </p>
-# Welcome to the online document for **MYSTERY MONSTER MAYHEM!** 
-This is a living document and repository for the development of a TTRPG which uses the [Cypher System SRD](https://screwtapello.gitlab.io/cypher-system-reference/index.html) for the base mechanics. From there I am building out new system and mechanics to achieve a particular theme and vibe.
+# Welcome to the online document for **The Rending of Palaghast** 
+This is a living document and repository for the development for the Daggerheart Campaign Frame.
 
 ## Why use Github?
-For one, it makes updating the game far easier than trying to release a PDF every few months. This was demonstrated to me by my great friend Penny who first tried out this method with her game [Distorted Domains](http://transtapir.games/Distorted-Domains/). Second, it is in keeping with the spirit of the CSRD. As a github repository you can just as easily grab a copy for yourself and begin tinkering with the mechanics and write your own ideas.
+For one, it makes updating the game far easier than trying to release a PDF every few months. This was demonstrated to me by my great friend Penny who first tried out this method with her game [Distorted Domains](http://transtapir.games/Distorted-Domains/). Second, it is in keeping with the spirit of open gaming systems. As a github repository you can just as easily grab a copy for yourself and begin tinkering with the mechanics and write your own ideas.
 
 {: .note }
 > You can't copyright mechanics anyway so it's not worth trying to gate keep them. I only "own" the expression of those mechanics.
 
-## What Are My Goals?<a name="goals"></a>
-While Cypher System is fantastic for narrative first games, characters skew toward being far more heoric than a lot of games. Between their stat pools, abilities, skills, and cyphers they are particularly powerful. While this serves a game well in high fantasy and sci-fi fantasy, it can quickly rob horror games of their tension. How scary can a monster be when you can vaporize a wall with your mind?
+## What Are My Goals?
+I've been sitting on this setting for many years and it has gone through seveal changes. It began as a D&D 5e setting I ran for my friends. Because of that fact many of its core setting ideas were heavily rooted in that system. Most notably in the fact that the Reliquaries (then known as Domains) were based on the 8 D&D clerical domians. Moving into Daggerheart, this needed a bit of an overhaul, but not by much. All-in-all the spirit of the setting has remained largely the same.
 
-With that in mind I wanted to test Cypher System's core mechanics. Is there a breaking point? How far can I push and pull them until they break? At which point I can back off just smidge to see where we end up. For this alpha release there are some extreme changes to the underlying character stats. 
-
-That said, I always kept in mind the foundational approach to Cypher System being multiples of three and everything being rated from 1 to 10. Anything new I added does not break out of this mold but rather uses it as a guidepost so that they should feel as natural to use as anything else in the game.
+So what is my goal? To breath new life into this setting and to share it with a larger audience. One that may find the push and pull between the divine and arcane as interesting as I do.
 
 ## Want To Help?
-Two ways you can help. First is by giving your feedback! Send me an [email](mailto:info@whensuddenly.games) with anything you think about the game, what you've discovered reading it, or how you feel when you've played it.
+Two ways you can help. First is by giving your feedback! Send me an [email](mailto:info@whensuddenly.games) with anything you think about the frame, what you've discovered reading it, or how you feel when you've played it. Creating a new Domain, Community, and Ancestry isn't a simple task and definitely one I won't get right at first blush. I know it will need tweaking so any help is appreciated.
 
-Second is through your financial support. Any amount of money frees me up to put more focus on this game's development, along with putting it toward the future final development of the book. I would like to crowdfund it, and that takes time and money to help get off the ground. So consider heading over to my [Ko-Fi page](https://ko-fi.com/whensuddenlygames) to help out.
+Second is through your financial support. Any amount of money frees me up to put more focus on this game's development, along with putting it toward the future final development of a full setting book should it come to that. Crowdfunding takes time and money so anything up front helps a ton. Consider heading over to my [Ko-Fi page](https://ko-fi.com/whensuddenlygames) to help out.
 
 [Dontation](https://ko-fi.com/whensuddenlygames){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
