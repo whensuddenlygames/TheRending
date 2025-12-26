@@ -1,3 +1,10 @@
+---
+title: Player Principles
+layout: default
+parent: Campaign Frame
+nav_order: 6
+---
+
 *If you decide to play this campaign, give the following information to your players.*
 ## Explore The World
 There are secrets buried deep and covered over by the Rending, lost to time and destruction. What was the nature of Palaghast? Where did the Demiurge come from? Prior to the Rending there was only one ancestry, who were they and why are there so many now? Explore these ancient ruins and uncover more hidden truths.
