@@ -1,3 +1,10 @@
+---
+title: Communities
+layout: default
+parent: Campaign Frame
+nav_order: 3
+---
+
 *All Communities are available, but a few are more likely to show up in certain Reliquaries. In addition there is one new community, the Abyssalborne.*
 
 ### Abyssalborne
