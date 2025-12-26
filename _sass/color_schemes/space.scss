@@ -1,1 +1,28 @@
+$color-scheme: space;
+$body-background-color: #68328c;
+$body-heading-color: #BABF17; // Heading
+$body-text-color: $grey-lt-300;
+$link-color: #04B2D9;
+$nav-child-link-color: #BABF17; // un var
+$sidebar-color: #3D1E52; // Side Bar
+$base-button-color: $grey-dk-250;
+$btn-primary-color: #F2911B;
+$code-background-color: #68328c; // Scooby default for syntax-one-dark-vivid
+$code-linenumber-color: #dee2f7; // Scooby .nf for syntax-one-dark-vivid
+$feedback-color: darken($sidebar-color, 3%);
+$table-background-color: #BF4C41;
+$search-background-color: darken($table-background-color, 15%);
+$search-result-preview-color: #BABF17;
+$border-color: #F2911B;
 
+@import "./vendor/Scooby/syntax"; // this is the one-dark-vivid atom syntax theme
+
+
+
+//purple { color: #68328C; }
+//dark purple { color: #3D1E52; }
+//blue { color: #04B2D9; }
+//dark blue { color: #04AACA; }
+//green { color: #BABF17; }
+//orange { color: #F2911B; }
+//red { color: #BF4C41; }
