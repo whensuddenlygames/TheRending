@@ -1,3 +1,10 @@
+---
+title: Ancestries
+layout: default
+parent: Campaign Frame
+nav_order: 4
+---
+
 While all ancestries can be found throughout the broken world, some are more associated with one particular Reliquary than another. That said, the Aetheris, Clank, Infernis, and newly introduced Abbysal Touched have unique origins to this setting. 
 
 ##### Aetheris
