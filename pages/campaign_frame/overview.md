@@ -1,3 +1,10 @@
+---
+title: Overview
+layout: default
+parent: Campaign Frame
+nav_order: 2
+---
+
 *One-Page overview of the setting*
 n the beginning Palaghast, the god-planet, was whole and the People were happy. Until the Demiurge, an arcane crafter from beyond brought Magic. The People flirted with this new power that could rival Palaghast's. A war of the Divine and Arcane waged across the face of the world. The First Saints, anointed by Palaghast themself, took the fight directly to the Demiurge for a final killing blow. In their pitched battle, the Demiurge unleashed a decisive spell—an arcane spear thrust straight through the breast of Palaghast. 
 
