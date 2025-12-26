@@ -17,11 +17,11 @@ Illiat, Vagras, Korvax, Exota, Teleport, Manifest Wall, Banish, Homet, Vyola, Sa
 Midnight Spirit
 #### Splendor
 Final Words, Divination, Shape Material, Resurrection
-#### Blood
-All
-#### Dread
-All
-## Abyssal Domain
+
+{: .note }
+> At this time the Blood and Dread domains are not present in this Campaign Frame.
+
+# Abyssal Domain
 The corruption of Palaghast’s Domains stems from the Abyssal Domain, created entirely by the Demiurge. The Abyssal Domain represents the abyss, daemons, summoning, forbidden knowledge, crafting, and travel. All Abyssal domain cards have the Abyssal Keyword.
 
 At character creation a player may substitute one of their class domain with an appropriate level of an Abyssal domain card. Upon leveling up follow the same rules as usual, with the addition that a character may take another Abyssal domain card, even if they have not taken one previously.
