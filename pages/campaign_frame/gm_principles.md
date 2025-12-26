@@ -1,3 +1,10 @@
+---
+title: GM Principles
+layout: default
+parent: Campaign Frame
+nav_order: 7
+---
+
 *Keep the following guidance in mind while you GM this campaign.*
 ## The Past Is Catching Up
 Try as they might, the Exemplar are unable to hide the true nature of reality from the mortal realm. The rise of New Gods and the pressure from the Abyssal Sea are threatening to uncover ancient secrets best left hidden. Lay out bread crumbs that lead to major revelations to the world that subvert what everyone believes to be true.
