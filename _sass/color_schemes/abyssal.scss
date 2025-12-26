@@ -1,11 +1,11 @@
 $color-scheme: abyssal;
-$body-background-color: #A9A9A9;
+$body-background-color: #0D0D0D;
 $body-heading-color: #BABF17; // Heading
-$body-text-color: $grey-lt-300;
-$link-color: #04B2D9;
-$nav-child-link-color: #BABF17; // un var
-$sidebar-color: #A9A9A9; // Side Bar
-$base-button-color: $grey-dk-250;
+$body-text-color: white;
+$link-color: #D99B29;
+$nav-child-link-color: #D99B29; // un var
+$sidebar-color: #0D0D0D; // Side Bar
+$base-button-color: #50686A;
 $btn-primary-color: #F2911B;
 $code-background-color: #68328c; // Scooby default for syntax-one-dark-vivid
 $code-linenumber-color: #dee2f7; // Scooby .nf for syntax-one-dark-vivid
@@ -13,16 +13,16 @@ $feedback-color: darken($sidebar-color, 3%);
 $table-background-color: #BF4C41;
 $search-background-color: darken($table-background-color, 15%);
 $search-result-preview-color: #BABF17;
-$border-color: #F2911B;
+$border-color: #D99B29;
 
 @import "./vendor/Scooby/syntax"; // this is the one-dark-vivid atom syntax theme
 
 
 
-//purple { color: #68328C; }
-//dark purple { color: #3D1E52; }
-//blue { color: #04B2D9; }
-//dark blue { color: #04AACA; }
-//green { color: #BABF17; }
-//orange { color: #F2911B; }
+//black { color: #0D0D0D; }
+//dark brown { color: #BF7417; }
+//gold { color: #D99B29; }
+//green { color: #859F82; }
+//light-gold { color: #F0BD36; }
+//dark-green { color: #50686A; }
 //red { color: #BF4C41; }
