@@ -1,3 +1,10 @@
+---
+title: Campaign Mechanics
+layout: default
+parent: Campaign Frame
+nav_order: 10
+---
+
 ## Abyssal Keyword
 To represent the corruption of the Demiurge, a new keyword has been added to several spells and abilities across several domains. Whenever a character has two or more domain cards with the Abyssal keyword, their physical appearance is altered. See Distinctions for more information on this change.
 ### Corrupted Domains
