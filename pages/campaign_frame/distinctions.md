@@ -1,3 +1,10 @@
+---
+title: Distinctions
+layout: default
+parent: Campaign Frame
+nav_order: 8
+---
+
 *Use this information to prepare your campaign. You can also share it with your players as needed.*
 
 ## Divine Magic versus Abyssal Magic
