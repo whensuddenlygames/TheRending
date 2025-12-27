@@ -28,6 +28,12 @@ At character creation a player may substitute one of their class domain with an 
 
 This Domain is available to all classes.
 
+Casting abyssal spells can also begin to change the physiology of those who meddle with this forbidden magic. With those who have abyssal domain cards in their loadout show signs as follows:
+- 1 card, their irises turn purple.
+- 2 cards, purple irises and hair begins to turn white.
+- 3 cards, fully white hair and purple irises, second thumb begins growing.
+- 4 cards, fully transformed.
+
 ## Domain Cards
 
 ### Level 1
