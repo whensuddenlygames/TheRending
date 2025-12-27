@@ -18,16 +18,19 @@ This is a living document and repository for the development for the Daggerheart
   </tr>
   <tr>
     <td><a href="pages/campaign_frame/ancestries.html">Ancestries</a></td>
+    <td><a href="pages/campaign_frame/class.html">Class</a></td>
+    <td><a href="pages/campaign_frame/communities.html">Player Principles</a></td>
+  </tr>
+  <tr>
+    <td><a href="pages/campaign_frame/gm_principles.html">GM Principles</a></td>
+    <td><a href="pages/campaign_frame/Distinctions.html">Distinctions</a></td>
+    <td><a href="pages/campaign_frame/inciting_incident.html">Inciting Incident</a></td>
+  </tr>
+  <tr>
+    <td><a href="pages/campaign_frame/campaign_mechanics.html">Campaign Mechanics</a></td>
+    <td><a href="pages/campaign_frame/session_zero_questions.html">Session 0 Questions</a></td>
   </tr>
 </table>
-
-| [The Pitch](pages/campaign_frame/the_pitch.html)  |  [Overview](pages/campaign_frame/overview.html) | [Communities](pages/campaign_frame/communities.html) |
-
-| [Ancestries](pages/campaign_frame/ancestries.html)  | [Class](pages/campaign_frame/class.html)  | [Player Principles](pages/campaign_frame/player_principles.html) |
-
-| [GM Principles](pages/campaign_frame/gm_principles.html)  | [Distinctions](pages/campaign_frame/distinctions.html)  | [Inciting Incident](pages/campaign_frame/inciting_incident.html)  |
-
-| [Campaign Mechanics](pages/campaign_frame/campaign_mechanics.html)  | [Session 0 Questions](pages/campaign_frame/session_zero_questions.html)  |
 
 ## Welcome To The Rending
 This setting has been in development for a very long time. It began as a kind of Dark Water rip off, where a Pangea like continent broke a part into thousands of small island chains and a mysterious dark water was creeping North, threatening to consume everything. Magic was evil and physically transformed those that used it.
