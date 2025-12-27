@@ -6,23 +6,30 @@ nav_order: 0
 <p align="center" width="100%">
   <img src="imgs/palaghast-logo-small.png">
 </p>
+
 # Welcome to the online document for **The Rending of Palaghast** 
 This is a living document and repository for the development for the Daggerheart Campaign Frame.
 
-## Why use Github?
-For one, it makes updating the game far easier than trying to release a PDF every few months. This was demonstrated to me by my great friend Penny who first tried out this method with her game [Distorted Domains](http://transtapir.games/Distorted-Domains/). Second, it is in keeping with the spirit of open gaming systems. As a github repository you can just as easily grab a copy for yourself and begin tinkering with the mechanics and write your own ideas.
+* [The Pitch](pages/campaign_frame/the_pitch.md)
+* [Overview](pages/campaign_frame/overview.md)
+* [Communities](pages/campaign_frame/communities.md)
+* [Ancestries](pages/campaign_frame/ancestries.md)
+* [Class](pages/campaign_frame/class.md)
+* [Player Principles](pages/campaign_frame/player_principles.md)
+* [GM Principles](pages/campaign_frame/gm_principles.md)
+* [Distinctions](pages/campaign_frame/distinctions.md)
+* [Inciting Incident](pages/campaign_frame/inciting_incident.md)
+* [Campaign Mechanics](pages/campaign_frame/campaign_mechanics.md)
+* [Session 0 Questions](pages/campaign_frame/session_zero_questions.md)
 
-{: .note }
-> You can't copyright mechanics anyway so it's not worth trying to gate keep them. I only "own" the expression of those mechanics.
+## Welcome To The Rending
+This setting has been in development for a very long time. It began as a kind of Dark Water rip off, where a Pangea like continent broke a part into thousands of small island chains and a mysterious dark water was creeping North, threatening to consume everything. Magic was evil and physically transformed those that used it.
 
-## What Are My Goals?
-I've been sitting on this setting for many years and it has gone through seveal changes. It began as a D&D 5e setting I ran for my friends. Because of that fact many of its core setting ideas were heavily rooted in that system. Most notably in the fact that the Reliquaries (then known as Domains) were based on the 8 D&D clerical domians. Moving into Daggerheart, this needed a bit of an overhaul, but not by much. All-in-all the spirit of the setting has remained largely the same.
+Jump ahead another 10 years and I had a thought. What if they were not islands, but the entire world broke a part? What if the sea was space? And what if the creeping dark water was in facd a horde of space daemons? Hell yeah. 
 
-So what is my goal? To breath new life into this setting and to share it with a larger audience. One that may find the push and pull between the divine and arcane as interesting as I do.
 
-## Want To Help?
-Two ways you can help. First is by giving your feedback! Send me an [email](mailto:info@whensuddenly.games) with anything you think about the frame, what you've discovered reading it, or how you feel when you've played it. Creating a new Domain, Community, and Ancestry isn't a simple task and definitely one I won't get right at first blush. I know it will need tweaking so any help is appreciated.
+I've always enjoyed TTRPG settings that embraced not just fantasy elements but science-fiction elements as well. Let ancient civilizations not just be old, but nearly alien with wild technology. Let travel to space be an option! There are some great JRPGs where the final boss is on the friggin' moon. I wanted to embrace that.
 
-Second is through your financial support. Any amount of money frees me up to put more focus on this game's development, along with putting it toward the future final development of a full setting book should it come to that. Crowdfunding takes time and money so anything up front helps a ton. Consider heading over to my [Ko-Fi page](https://ko-fi.com/whensuddenlygames) to help out.
+Add on top of that some religious trauma by questioning the nature of dieties, the divine, magic, and baby you've got yourself a stew.
 
-[Dontation](https://ko-fi.com/whensuddenlygames){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+I hope you enjoy reading *The Rending of Palaghast* and please if you have any ideas or discover some issues with the setting send an email to [info@whensuddenly.games](mailto:info@whensuddenly.games).
