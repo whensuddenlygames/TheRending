@@ -35,5 +35,5 @@ Add on top of that some religious trauma by questioning the nature of dieties, t
 I hope you enjoy reading *The Rending of Palaghast* and please if you have any ideas or discover some issues with the setting send an email to [info@whensuddenly.games](mailto:info@whensuddenly.games).
 <br>
 <p style="text-align:center;">
-  <img src="imgs/DH_CGL_logos_final_full_color.png">
+  <img src="imgs/DH_CGL_logos_final_white_full_color.png">
 </p>
