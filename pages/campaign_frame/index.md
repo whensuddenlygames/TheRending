@@ -7,4 +7,4 @@ This is just a slice of the setting that has been in some form of development fo
 
 The most extensive addition to this frame comes with the [Abyssal Domain](campaign_mechanics.md#abyssal-domain). Unique among the official domains, this one may be picked up by *any* class at *any* time during a level up in place of their normal choices. It is very much a narrative driven domain. A player may not have set out to have cards in their loadout from it, but due to story reasons could feel compelled to do so.
 
-I hope you enjoy The Rending of Palaghast.
+I hope you enjoy *The Rending of Palaghast*.
