@@ -10,7 +10,7 @@ nav_order: 0
 # Welcome to the online document for **The Rending of Palaghast** 
 This is a living document and repository for the development for the Daggerheart Campaign Frame.
 
-| [The Pitch](pages/campaign_frame/the_pitch.html)  |  [Overview](pages/campaign_frame/overview.html) | [Communities](pages/campaign_frame/communities.html) |
+| : [The Pitch](pages/campaign_frame/the_pitch.html) : |  [Overview](pages/campaign_frame/overview.html) | [Communities](pages/campaign_frame/communities.html) |
 
 | [Ancestries](pages/campaign_frame/ancestries.html)  | [Class](pages/campaign_frame/class.html)  | [Player Principles](pages/campaign_frame/player_principles.html) |
 
