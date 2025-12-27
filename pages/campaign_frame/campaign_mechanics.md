@@ -27,7 +27,9 @@ The corruption of Palaghast’s Domains stems from the Abyssal Domain, created e
 At character creation a player may substitute one of their class domain with an appropriate level of an Abyssal domain card. Upon leveling up follow the same rules as usual, with the addition that a character may take another Abyssal domain card, even if they have not taken one previously.
 
 This Domain is available to all classes.
+
 ## Domain Cards
+
 ### Level 1
 #### Congruency 0
 Ability, Abyssal
@@ -38,6 +40,7 @@ Make a Spellcraft roll against a target within Far range. On a success, the targ
 #### Daemon Wings
 Spell, Abyssal
 Mark a Stress to sprout daemonic wings. You may fly in a straight line up to Close Range. When the spell ends you float down to land safely on the ground.
+
 ### Level 2
 #### Abyssal Mark
 Spell, Abyssal
@@ -47,6 +50,7 @@ Spell, Abyssal
 Spend a Hope to summon a lesser daemon to your side until your next rest, you cast Lesser Daemon again, or the daemon is targeted by an attack. If you spend an additional Hope, you can summon a daemon that flies. You can communicate with them, make a Spellcast Roll to command them to perform simple tasks, and mark a Stress to see through their eyes.
 
 When you deal damage to an adversary within Melee range of your daemon, you add a d6 to your damage roll.
+
 ### Level 3
 #### Foresight
 Spell, Abyssal
@@ -56,6 +60,7 @@ Or, whenever an adversary attempts an action roll, you may spend any number of t
 #### Staff of the Demiurge
 Spell, Abyssal
 Spend a Hope to summon a staff from the Abyssal Sea. You may wield the staff as a melee weapon that deals magical damage. Or, you may send the staff out to a range of Close. When you cast a spell from your loadout, you may use the staff’s position as the spell’s origin. The staff exists until your next rest or targeted by an attack.
+
 ### Level 4
 #### Crown of the Demiurge
 Spell, Abyssal
@@ -67,6 +72,7 @@ Spend a Hope to summon the Crow of the Demiurge. Set in the crown are four gems.
 #### Daemonic Visage
 Spell, Abyssal
 Make a Spellcraft roll (15) to turn your appearance into that of a daemon. This lasts until you remove the effect or take a long rest. While appearing as a daemon you have advantage on rolls to intimidate and can communicate with all daemons. 
+
 ### Level 5
 #### Astral Projection
 Spell, Abyssal
@@ -76,6 +82,7 @@ Spells with the Abyssal keyword can harm your astral form, lowering your Stress 
 #### Will of the Demiurge
 Spell, Abyssal
 Make a Spellcraft roll against a daemon of your tier or lower. On a success you may give that daemon one command that it must carry out.
+
 ### Level 6
 #### Summon Daemon
 Spell, Abyssal
@@ -85,6 +92,7 @@ When you deal damage to an adversary within Melee range of your daemon, you add 
 #### Abyssal Circle
 Spell, Abyss
 You take an action to draw a circle of abyssal power on the ground. While you remain standing in the circle your Spellcraft rolls for all Abyssal spells receive an +1 bonus and deal an additional 1d8 magical damage. If you are removed from the circle you must draw a new one.
+
 ### Level 7
 #### Abyssal Touched
 When 4 or more of the domain cards in your loadout have the Abyssal keyword, gain the following benefits:
@@ -94,10 +102,16 @@ When 4 or more of the domain cards in your loadout have the Abyssal keyword, gai
 #### Astral Tunnel
 Spell, Abyssal
 You tunnel through reality and into the Abyssal Plane, allowing you to travel vast distances. You only need a description of the end point to reach it. For each additional target beyond yourself you must mark a Stress.
+
 ### Level 8
 #### Magic Dominance
 Spell, Abyssal
 When an adversary misses a magical action, you may spend a Hope to cast the same spell at a new target, using your Spellcraft trait. You must pay all the appropriate costs that the action requires, spending Hope if the adversary spent Fear.
+
+#### Vessel of the Demiurge
+Spell, Abyssal
+Spend 3 Hope and Summon a craft that can travel through the Abyssal Sea. If can carry up to a number of targets equal to your Spellcraft modifier, and can store up your Proficiency in pounds multiplied by 100.
+
 ### Level 9
 #### Rending
 Spell, Abyssal
@@ -105,6 +119,7 @@ Make a Spellcraft roll against a target, if successful deal 6d6 magical damage. 
 #### Daemon Lord
 Spell, Abyssal
 Spend 4 Hope and make a Spellcraft roll (19) to summon a Daemon Lord. This daemon is not under your control and will act however they wish.
+
 ### Level 10
 #### Spear of the Demiurge
 Spell, Abyssal
