@@ -10,7 +10,7 @@ While all ancestries can be found throughout the broken world, some are more ass
 ## Aetheris
 The most rare among the ancestries, the Aetheris are called “Children of the Exemplars.” While not true offspring, a percentage of children born within a Reliquary are born as aetheris. It is hypothesized that being in such close proximity of the Exemplar can bless those born to demonstrate divine powers.
 
-When choosing to play an Aetheris, consider which Reliquary your character was born. How does this fact show itself in your features or actions?
+When choosing to play an Aetheris, consider which [Reliquary](distinctions.md#reliquaries) your character was born. How does this fact show itself in your features or actions?
 ## Clank
 Before the Rending, Clanks were crafted by the armies of the Demiurge as machines of war. Fighters, cooks, and laborers they touched every part of the conflict. It had been assumed they were all destroyed during the Rending, but that was far from the case. Modern day excavations into mountains for resources uncovered vast caches of dormant Clank. After careful study by Scio scholars, they were successful in turning the Clanks back on. While they were expected to return to their duties as engines of war, the Clanks instead turned to pursue their own goals in life as autonomous beings.
 ## Infernis
@@ -22,6 +22,6 @@ This ancestry can be taken fully or as a mixed ancestry as normal. If chosen as 
 
 *Abyssal Touched are recognizable by their white hair, purple eyes, and second opposable thumb that grows below their pinky finger.*
 
-*One With Magic* You may select an Abyssal Domain card to replace another one of your class domain cards at character creation.
+***One With Magic:*** You may select an [Abyssal Domain](campaign_mechanics.md#abyssal-domain) card to replace another one of your class domain cards at character creation.
 
-*Abyssal Shield:* Spend 3 Hope to halve damage from an Abyssal source. 
+***Abyssal Shield:*** **Spend 3 Hope** to halve damage from an Abyssal source. 
