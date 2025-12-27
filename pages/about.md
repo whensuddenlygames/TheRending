@@ -3,11 +3,6 @@ title: About When Suddenly! Games
 layout: default
 nav_order: 4
 ---
-# [Website](https://www.whensuddenly.games)
-
-<div style="text-align:center;">
-  ![When Suddenly! Games logo](../imgs/Logo%20Color@0.5x.png)
-</div>
 
 # Welcome to the online document for **The Rending of Palaghast** 
 This is a living document and repository for the development for the Daggerheart Campaign Frame.
@@ -29,4 +24,11 @@ Two ways you can help. First is by giving your feedback! Send me an [email](mail
 Second is through your financial support. Any amount of money frees me up to put more focus on this game's development, along with putting it toward the future final development of a full setting book should it come to that. Crowdfunding takes time and money so anything up front helps a ton. Consider heading over to my [Ko-Fi page](https://ko-fi.com/whensuddenlygames) to help out.
 
 [Dontation](https://ko-fi.com/whensuddenlygames){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+
+# [Website](https://www.whensuddenly.games)
+
+<div style="text-align:center; width=35%;">
+  <img src="/imgs/Logo%20Color@0.5x.png">
+</div>
+
 
