@@ -10,17 +10,7 @@ nav_order: 0
 # Welcome to the online document for **The Rending of Palaghast** 
 This is a living document and repository for the development for the Daggerheart Campaign Frame.
 
-* [The Pitch](pages/campaign_frame/the_pitch.md)
-* [Overview](pages/campaign_frame/overview.md)
-* [Communities](pages/campaign_frame/communities.md)
-* [Ancestries](pages/campaign_frame/ancestries.md)
-* [Class](pages/campaign_frame/class.md)
-* [Player Principles](pages/campaign_frame/player_principles.md)
-* [GM Principles](pages/campaign_frame/gm_principles.md)
-* [Distinctions](pages/campaign_frame/distinctions.md)
-* [Inciting Incident](pages/campaign_frame/inciting_incident.md)
-* [Campaign Mechanics](pages/campaign_frame/campaign_mechanics.md)
-* [Session 0 Questions](pages/campaign_frame/session_zero_questions.md)
+| [The Pitch](pages/campaign_frame/the_pitch.md)  |  [Overview](pages/campaign_frame/overview.md) | [Communities](pages/campaign_frame/communities.md) | [Ancestries](pages/campaign_frame/ancestries.md)  | [Class](pages/campaign_frame/class.md)  | [Player Principles](pages/campaign_frame/player_principles.md)  | [GM Principles](pages/campaign_frame/gm_principles.md)  | [Distinctions](pages/campaign_frame/distinctions.md)  | [Inciting Incident](pages/campaign_frame/inciting_incident.md)  | [Campaign Mechanics](pages/campaign_frame/campaign_mechanics.md)  | [Session 0 Questions](pages/campaign_frame/session_zero_questions.md)  |
 
 ## Welcome To The Rending
 This setting has been in development for a very long time. It began as a kind of Dark Water rip off, where a Pangea like continent broke a part into thousands of small island chains and a mysterious dark water was creeping North, threatening to consume everything. Magic was evil and physically transformed those that used it.
