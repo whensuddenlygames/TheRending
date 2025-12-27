@@ -8,7 +8,7 @@ nav_order: 3
 *All Communities are available, but a few are more likely to show up in certain Reliquaries. In addition there is one new community, the Abyssalborne.*
 
 ## Abyssalborne
-Across all the Reliquaries you will find communities of Abyssalborne. Those who wish to play Abyssal Touched may wish to play a Abyssalborne character as this community consists of found families, families of Abyssal Touched, and those (a stupid word I can’t remember right now) of their plight.
+Across all the Reliquaries you will find communities of Abyssalborne. Those who wish to play [Abyssal Touched](ancestries.md#abyssal-touched) may wish to play a Abyssalborne character as this community consists of found families, families of Abyssal Touched, and those (a stupid word I can’t remember right now) of their plight.
 
 * Did you find yourself properly born into this community?
 * Are you an outsider, thrust into an unknown community outside of your control?
