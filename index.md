@@ -12,7 +12,7 @@ This is a living document and repository for the development for the Daggerheart
 
 <table>
   <tr>
-    <td><a href="pages/campaign_frame/the_pitch.html">The Pitch</a></td>
+    <td style="text-align:center;"><a href="pages/campaign_frame/the_pitch.html">The Pitch</a></td>
     <td><a href="pages/campaign_frame/overview.html">Overview</a></td>
     <td><a href="pages/campaign_frame/communities.html">Communities</a></td>
   </tr>
