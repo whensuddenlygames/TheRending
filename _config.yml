@@ -2,7 +2,13 @@ title: The Rending of Palaghast - A Daggerheart Campaign Frame of epic scale.
 description: A Daggerheart Campaign Frame with a brand new Domain, new community, and ancestry.
 theme: just-the-docs
 
-url: https://whensuddenlygames.github.io/TheRending
+url: https://whensuddenlygames.github.io/
+image: imgs/social-media-img.jpg
+social:
+  name: When Suddenly! Games
+  links:
+    - https://www.facebook.com/whensuddenlygames
+    - https://bsky.app/@whensuddenly.games
 
 aux_links:
   Template Repository: https://github.com/whensuddenlygames/TheRending
