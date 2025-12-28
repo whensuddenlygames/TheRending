@@ -15,6 +15,6 @@ Across all the Reliquaries you will find communities of Abyssalborne. Those who 
 * Did you dabble in Abyssal Magic and now seek refuge among those who understand?
 
 If you pick the Abyssalborne Community, take this feature.
-*Being part of of an abyssalborne community means you are a part of a community who can be mistrusted by others for your assumed connection to daemons.*
+*Being part of an abyssalborne community means you are a part of a community who can be mistrusted by others for your assumed connection to daemons.*
 
 **One With Magic:** You have advantage on understanding magical sigils and incants connected to the Abyss. 
