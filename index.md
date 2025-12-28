@@ -2,6 +2,7 @@
 title: Home
 layout: home
 nav_order: 0
+img: /imgs/social-media-img.jpg
 ---
 <p align="center" width="100%">
   <img src="imgs/palaghast-logo-small.png">
