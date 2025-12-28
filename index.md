@@ -13,22 +13,22 @@ This is a living document and repository for the development for the Daggerheart
 <table>
   <tr>
     <td style="text-align:center;"><a href="pages/campaign_frame/the_pitch.html">The Pitch</a></td>
-    <td><a href="pages/campaign_frame/overview.html">Overview</a></td>
-    <td><a href="pages/campaign_frame/communities.html">Communities</a></td>
+    <td style="text-align:center;"><a href="pages/campaign_frame/overview.html">Overview</a></td>
+    <td style="text-align:center;"><a href="pages/campaign_frame/communities.html">Communities</a></td>
   </tr>
   <tr>
-    <td><a href="pages/campaign_frame/ancestries.html">Ancestries</a></td>
-    <td><a href="pages/campaign_frame/class.html">Class</a></td>
-    <td><a href="pages/campaign_frame/communities.html">Player Principles</a></td>
+    <td style="text-align:center;"><a href="pages/campaign_frame/ancestries.html">Ancestries</a></td>
+    <td style="text-align:center;"><a href="pages/campaign_frame/class.html">Class</a></td>
+    <td style="text-align:center;"><a href="pages/campaign_frame/communities.html">Player Principles</a></td>
   </tr>
   <tr>
-    <td><a href="pages/campaign_frame/gm_principles.html">GM Principles</a></td>
-    <td><a href="pages/campaign_frame/Distinctions.html">Distinctions</a></td>
-    <td><a href="pages/campaign_frame/inciting_incident.html">Inciting Incident</a></td>
+    <td style="text-align:center;"><a href="pages/campaign_frame/gm_principles.html">GM Principles</a></td>
+    <td style="text-align:center;"><a href="pages/campaign_frame/Distinctions.html">Distinctions</a></td>
+    <td style="text-align:center;"><a href="pages/campaign_frame/inciting_incident.html">Inciting Incident</a></td>
   </tr>
   <tr>
-    <td><a href="pages/campaign_frame/campaign_mechanics.html">Campaign Mechanics</a></td>
-    <td><a href="pages/campaign_frame/session_zero_questions.html">Session 0 Questions</a></td>
+    <td style="text-align:center;"><a href="pages/campaign_frame/campaign_mechanics.html">Campaign Mechanics</a></td>
+    <td style="text-align:center;"><a href="pages/campaign_frame/session_zero_questions.html">Session 0 Questions</a></td>
   </tr>
 </table>
 
