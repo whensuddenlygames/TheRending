@@ -34,7 +34,7 @@ This is a living document and repository for the development for the Daggerheart
 </table>
 
 
-[Click me](http://www.google.com){: .btn} [Click me](http://www.google.com){: .btn} [Click me](http://www.google.com){: .btn}
+[Downloads](files/Abyssal Cards.zip){: .btn} [Click me](http://www.google.com){: .btn} [Click me](http://www.google.com){: .btn}
 
 
 ---
