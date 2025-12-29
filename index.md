@@ -11,30 +11,11 @@ image: /imgs/social-media-img.jpg
 # Welcome to the online document for **The Rending of Palaghast** 
 This is a living document and repository for the development for the Daggerheart Campaign Frame.
 
-<table>
-  <tr>
-    <td style="text-align:center;"><a href="pages/campaign_frame/the_pitch.html">The Pitch</a></td>
-    <td style="text-align:center;"><a href="pages/campaign_frame/overview.html">Overview</a></td>
-    <td style="text-align:center;"><a href="pages/campaign_frame/communities.html">Communities</a></td>
-  </tr>
-  <tr>
-    <td style="text-align:center;"><a href="pages/campaign_frame/ancestries.html">Ancestries</a></td>
-    <td style="text-align:center;"><a href="pages/campaign_frame/class.html">Class</a></td>
-    <td style="text-align:center;"><a href="pages/campaign_frame/communities.html">Player Principles</a></td>
-  </tr>
-  <tr>
-    <td style="text-align:center;"><a href="pages/campaign_frame/gm_principles.html">GM Principles</a></td>
-    <td style="text-align:center;"><a href="pages/campaign_frame/Distinctions.html">Distinctions</a></td>
-    <td style="text-align:center;"><a href="pages/campaign_frame/inciting_incident.html">Inciting Incident</a></td>
-  </tr>
-  <tr>
-    <td style="text-align:center;"><a href="pages/campaign_frame/campaign_mechanics.html">Campaign Mechanics</a></td>
-    <td style="text-align:center;"><a href="pages/campaign_frame/session_zero_questions.html">Session 0 Questions</a></td>
-  </tr>
-</table>
 
-
-[Downloads](files/Abyssal Cards.zip){: .btn} [Click me](http://www.google.com){: .btn} [Click me](http://www.google.com){: .btn}
+[The Pitch](pages/campaign_frame/the_pitch.html){: .btn} [Overview](pages/campaign_frame/overview.html){: .btn} [Communities](pages/campaign_frame/communities.html){: .btn}
+[Ancestries](pages/campaign_frame/ancestries.html){: .btn} [Class](pages/campaign_frame/class.html){: .btn} [Player Principles](pages/campaign_frame/player_principles.html){: .btn}
+[GM Principles](pages/campaign_frame/gm_principles.html){: .btn} [Distinctions](pages/campaign_frame/distinctions.html){: .btn} [Click me](pages/campaign_frame/inciting_incident.html){: .btn}
+[Campaign Mechanics](pages/campaign_frame/campaign_mechanics.html){: .btn} [Session 0 Questions](pages/campaign_frame/session_zero_questions.html){: .btn} [Downloads](files/Abyssal Cards.zip){: .btn} 
 
 
 ---
