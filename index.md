@@ -14,7 +14,7 @@ This is a living document and repository for the development for the Daggerheart
 
 [The Pitch](pages/campaign_frame/the_pitch.html){: .btn} [Overview](pages/campaign_frame/overview.html){: .btn} [Communities](pages/campaign_frame/communities.html){: .btn}
 [Ancestries](pages/campaign_frame/ancestries.html){: .btn} [Class](pages/campaign_frame/class.html){: .btn} [Player Principles](pages/campaign_frame/player_principles.html){: .btn}
-[GM Principles](pages/campaign_frame/gm_principles.html){: .btn} [Distinctions](pages/campaign_frame/distinctions.html){: .btn} [Click me](pages/campaign_frame/inciting_incident.html){: .btn}
+[GM Principles](pages/campaign_frame/gm_principles.html){: .btn} [Distinctions](pages/campaign_frame/distinctions.html){: .btn} [Inciting Incident](pages/campaign_frame/inciting_incident.html){: .btn}
 [Campaign Mechanics](pages/campaign_frame/campaign_mechanics.html){: .btn} [Session 0 Questions](pages/campaign_frame/session_zero_questions.html){: .btn} [Downloads](files/Abyssal Cards.zip){: .btn} 
 
 
