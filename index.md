@@ -33,6 +33,13 @@ This is a living document and repository for the development for the Daggerheart
   </tr>
 </table>
 
+---
+
+<p style="text-align:center;"><a href="https://www.kickstarter.com/projects/whensuddenlygames/the-crypt-has-opened"><img src="imgs/ad-banner.png"></a></p>
+<p style="text-align:center;"><sup><a href="https://www.thecrypthasopened.com">The Crypt Has Opened</a> crowdfunding campaign launches this coming February, 2026. Become a magical practitioner and fight cryptids, ghosts, and cultists in a twisted 90s hellscape.</sup></p>
+
+---
+
 ## Welcome To The Rending
 This setting has been in development for a very long time. It began as a kind of Dark Water rip off, where a Pangea like continent broke a part into thousands of small island chains and a mysterious dark water was creeping North, threatening to consume everything. Magic was evil and physically transformed those that used it.
 
