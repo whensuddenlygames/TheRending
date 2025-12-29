@@ -33,6 +33,10 @@ This is a living document and repository for the development for the Daggerheart
   </tr>
 </table>
 
+
+[Click me](http://www.google.com){: .btn}
+
+
 ---
 
 <p style="text-align:center;"><a href="https://www.kickstarter.com/projects/whensuddenlygames/the-crypt-has-opened"><img src="imgs/ad-banner.png"></a></p>
