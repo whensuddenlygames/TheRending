@@ -48,7 +48,7 @@ Casting abyssal spells can also begin to change the physiology of those who medd
 [Download Cards](files/Abyssal Cards.zip){: .btn}
 
 ### Level 1
-#### Congruency 0
+#### Congruency
 Ability, Abyssal
 When this domain card is in your loadout, all domain cards with the Abyssal keyword now use Presence for determining your Spellcraft rolls.
 #### Abyssal Decay
