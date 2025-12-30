@@ -5,11 +5,14 @@ parent: Campaign Frame
 nav_order: 8
 ---
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
 1. The Reliquaries
 {:toc}
-2. The New Gods
-3. Abyssal Sea
-4. Divine Magic Versus Abyssal Magic
+</details>
 
 *Use this information to prepare your campaign. You can also share it with your players as needed.*
 
@@ -92,7 +95,7 @@ While Pala-Vivo may seem like the perfect Reliquary, not everything is as it see
 
 Vivo has an intense hatred for the Abyss and hunts any and all practitioners, labeling them daemons. Those caught consorting with the Abyss are harshly punished. It is said his righteous hatred comes from the fact that Splendor had been corrupted by the Demiruge long before the Rending. 
 
-##### Astral Bridges
+### Astral Bridges
 Massive Columns rest at the edges of broken landmasses. Four sets, standing 50 ft tall with 20 yards between each column. The last set floats out past the edge, touching the Abyssal Sea. One must pay a fare to the Bridge Keepers who will unlock the bridge, opening a passage.
 
 Walking between the powered columns transports the travelers to a pocket dimension within the Astral Plane. While the true distance between Reliquaries is hundreds of thousands of miles through the Abyssal Sea, the bridges cut the travel time to mere hours. 
