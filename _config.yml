@@ -10,6 +10,9 @@ social:
     - https://www.facebook.com/whensuddenlygames
     - https://bsky.app/@whensuddenly.games
 
+back_to_top: true
+back_to_top_text: "Back to top"
+
 aux_links:
   Template Repository: https://github.com/whensuddenlygames/TheRending
 
