@@ -4,6 +4,10 @@ layout: default
 nav_order: 4
 ---
 
+<p style="text-align:center;">
+<a href="https://www.kickstarter.com/projects/whensuddenlygames/the-crypt-has-opened"><img src="files/banner-kickstarter-horizontal"></a>
+</p>
+
 # Welcome to the online document for **The Rending of Palaghast** 
 This is a living document and repository for the development for the Daggerheart Campaign Frame.
 
