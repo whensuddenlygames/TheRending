@@ -5,6 +5,12 @@ parent: Campaign Frame
 nav_order: 8
 ---
 
+1. The Reliquaries
+{:toc}
+2. The New Gods
+3. Abyssal Sea
+4. Divine Magic Versus Abyssal Magic
+
 *Use this information to prepare your campaign. You can also share it with your players as needed.*
 
 {: .note }
