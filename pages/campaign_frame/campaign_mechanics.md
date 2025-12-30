@@ -5,6 +5,15 @@ parent: Campaign Frame
 nav_order: 10
 ---
 
+<details closed markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. Abyssal Keyword
+{:toc}
+</details>
+
 ## Abyssal Keyword
 To represent the corruption of the Demiurge, a new keyword has been added to several spells and abilities across several domains. Whenever a character has two or more domain cards with the Abyssal keyword, their physical appearance is altered. See Distinctions for more information on this change.
 ### Corrupted Domains
@@ -135,3 +144,5 @@ You summon a Spear of the Demiurge from the Abyssal Sea. This spear may be used 
 #### Daemonic Gaesh
 Spell, Abyssal
 Make a Spellcraft roll against a Daemon. If successful they must follow your commands until the next rest. You may spend a Hope to keep the Gaesh active beyond the rest. If you or a friendly target attack the Daemon the gaesh drops and you may not attempt this spell against the target again until after a long rest.
+
+## Back to Top {#back-to-top-doc}
