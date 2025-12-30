@@ -16,6 +16,9 @@ Before the Rending, Clanks were crafted by the armies of the Demiurge as machine
 ## Infernis
 In the darkest of times a mortal will reach out in prayer for an intervention, but what answers may not always be divine. An Infernis is a mortal who has made an abyssal pact with a daemon, offering the creature something of themselves and in return a portion of that daemon’s power. Infernis are never born, they are always a result of a pact made with a daemon.
 ## Abyssal Touched
+
+[Download Cards](files/Abyssal Cards.zip){: .btn}
+
 Like the Aetheris, there are those that become “touched” by the Abyss itself. They are instantly recognizable by distinct features. It is unknown who will become touched or who may be born with it. For all purposes it is as random as where a drop of rain may fall.
 
 This ancestry can be taken fully or as a mixed ancestry as normal. If chosen as a full ancestry, you should still pick an ancestry for your physical traits. You may appear as a Katari, but be fully Abyssal Touched.
