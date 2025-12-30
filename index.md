@@ -27,7 +27,7 @@ This is a living document and repository for the development for the Daggerheart
 
 ## Welcome To The Rending
 
-<p style="float: right;">
+<p style="float: right; padding: 0px 0px 25px 10px;">
   <img src="files/Magic.gif">
 </p>
 
