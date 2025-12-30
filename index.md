@@ -24,11 +24,13 @@ This is a living document and repository for the development for the Daggerheart
 <p style="text-align:center;"><sup><a href="https://www.thecrypthasopened.com">The Crypt Has Opened</a> crowdfunding campaign launches this coming February, 2026. Become a magical practitioner and fight cryptids, ghosts, and cultists in a twisted 90s hellscape.</sup></p>
 
 ---
+
+## Welcome To The Rending
+
 <p style="float: right;">
   <img src="files/Magic.gif">
 </p>
 
-## Welcome To The Rending
 What if there was only one deity? What if they diety died? This is the starting point for The Rending of Palaghast. You live in a broken world, literally, that is besiged by daemons that swirl within the Abyssal Sea. Nine Exemplars -- living relics of the deceased god -- rule thier realms, grants divine powers to their worshippers, and protect the crumbling world.
 
 New Gods, beings who have gained their own divine powers beyond that of the Exemplars now threaten normalcy. While the practice of forbidden Abyssal Magic spreads throughout the Reliquaries. 
