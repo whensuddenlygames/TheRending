@@ -4,7 +4,7 @@ layout: default
 nav_order: 4
 ---
 
-<p style="text-align:center;">
+<p style="text-align: center;">
 <a href="https://www.kickstarter.com/projects/whensuddenlygames/the-crypt-has-opened"><img src="files/banner-kickstarter-horizontal.gif"></a>
 </p>
 
