@@ -144,5 +144,3 @@ You summon a Spear of the Demiurge from the Abyssal Sea. This spear may be used 
 #### Daemonic Gaesh
 Spell, Abyssal
 Make a Spellcraft roll against a Daemon. If successful they must follow your commands until the next rest. You may spend a Hope to keep the Gaesh active beyond the rest. If you or a friendly target attack the Daemon the gaesh drops and you may not attempt this spell against the target again until after a long rest.
-
-## Back to Top {#back-to-top-doc}
