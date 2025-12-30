@@ -28,7 +28,7 @@ This is a living document and repository for the development for the Daggerheart
 
 ## Welcome To The Rending
 
-<p style="float: right; padding: 0px 0px 25px 20px;">
+<p style="float: right; margin: 0px 0px 25px 20px;">
   <img src="files/Magic.gif">
 </p>
 
@@ -41,6 +41,6 @@ This is a setting of exploration, divine right, science-fiction fantasy, and unc
 I hope you enjoy reading *The Rending of Palaghast* and please if you have any ideas or discover some issues with the setting send an email to [info@whensuddenly.games](mailto:info@whensuddenly.games).
 
 
-<p style="text-align:center;">
+<p style="text-align:center; margin-top: 45px;">
   <img src="imgs/DH_CGL_logos_final_white_full_color.png">
 </p>
