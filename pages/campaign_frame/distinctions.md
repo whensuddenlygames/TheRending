@@ -5,7 +5,7 @@ parent: Campaign Frame
 nav_order: 8
 ---
 
-<details open markdown="block">
+<details closed markdown="block">
   <summary>
     Table of contents
   </summary>
