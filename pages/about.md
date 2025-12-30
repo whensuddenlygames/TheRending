@@ -5,7 +5,7 @@ nav_order: 4
 ---
 
 <p style="text-align: center;">
-<a href="https://www.kickstarter.com/projects/whensuddenlygames/the-crypt-has-opened"><img src="files/banner-kickstarter-horizontal.gif"></a>
+<a href="https://www.kickstarter.com/projects/whensuddenlygames/the-crypt-has-opened"><img src="../files/banner-kickstarter-horizontal.gif"></a>
 </p>
 
 # Welcome to the online document for **The Rending of Palaghast** 
