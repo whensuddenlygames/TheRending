@@ -11,7 +11,7 @@ nav_order: 3
 
 [Download Cards](files/Abyssal Cards.zip){: .btn}
 
-Across all the Reliquaries you will find communities of Abyssalborne. Those who wish to play [Abyssal Touched](ancestries.md#abyssal-touched) may wish to play an Abyssalborne character. This community consists of found families, families of all Abyssal Touched, and those sympathetic to their plight.
+Across all the Reliquaries you will find communities of Abyssalborne. Those who wish to play [Abyssal Touched](ancestries.html#abyssal-touched) may wish to play an Abyssalborne character. This community consists of found families, families of all Abyssal Touched, and those sympathetic to their plight.
 
 * Did you find yourself properly born into this community?
 * Are you an outsider, thrust into an unknown community outside of your control?
