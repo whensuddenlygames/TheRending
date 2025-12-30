@@ -171,3 +171,5 @@ Before the Rending there was only divine gifts granted to worshipers by Palaghas
 Wizards and Sorcerers, primarily those who worship Scio, practice a type of divine magic wherein the knowledge to cast spells is granted to them by an Exemplar. Those who stray outside of these teachings, flirt with Abyssal magic. This type of magic claims to be drawn from within a mortal’s own life force, or tapping into some evil within the Abyssal Sea.
 ### Corrupted Domains
 During the war between Palaghast and the Demiurge, several magical domains were forever corrupted. Dark secrets were whispered to divine wizards, who introduced new magical theorems designed to lead others down a path to accepting and practicing Abyssal magic.
+
+## Back to Top {#back-to-top-doc}
