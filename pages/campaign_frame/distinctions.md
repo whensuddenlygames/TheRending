@@ -22,7 +22,7 @@ Each Exemplar embodies a slice of what made Palaghast the god-of-all, relics of 
 
 #### Arkanoj - Arcana
 Corrupted
-None of the Reliquaries are as mysterious and dangerous as Pala-Arkanoj (Are-can-oy). When the Demiurge first arrived, they began corrupting [Divine Magic](#divine-magic-versus-abyssal-magic) by sewing in new forms of magical knowledge. These formulae and rituals no longer required Palaghast to function, but drew their power from something all together alien to the divine mages of the time. 
+None of the Reliquaries are as mysterious and dangerous as Pala-Arkanoj (Are-can-oy). When the Demiurge first arrived, they began corrupting [Divine Magic](pages/campaign_frame/distinctions.html#divine-magic-versus-abyssal-magic) by sewing in new forms of magical knowledge. These formulae and rituals no longer required Palaghast to function, but drew their power from something all together alien to the divine mages of the time. 
 
 After the Rending, Arkanoj proved to be the most affected by the corruption, unable to fully shake the Demiurge’s meddling. Spell storms rage across the landscape, rifts between worlds can suddenly appear, dumping awesome and horrific creatures into the Reliquary. 
 
